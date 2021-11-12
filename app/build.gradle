@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.tutushubham.vision"
+        applicationId 'com.duo.vision'
         minSdk 24
         targetSdk 30
         versionCode 1

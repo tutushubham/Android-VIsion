@@ -1,4 +1,4 @@
-package com.tutushubham.vision
+package com.duo.vision
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

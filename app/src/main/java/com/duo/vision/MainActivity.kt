@@ -1,7 +1,8 @@
-package com.tutushubham.vision
+package com.duo.vision
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import duo.vision.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
